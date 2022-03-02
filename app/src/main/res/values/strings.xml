@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">P7_181018</string>
+    <string name="peli1">El Padrino II</string>
+    <string name="peli2">Spider-Man: Sin Camino a Casa</string>
+    <string name="peli3">Digimon Adventure: La Última Evolución Kizuna</string>
+    <string name="peli4">Batman</string>
+    <string name="peli5">Uncharted: Fuera del Mapa</string>
+
+    <string name="peli_desc1">Francis Ford Coppola continúa la saga de la familia Corleone mostrando de forma simultánea las raíces de Vito y su ascenso como capo de la mafia, y la expansión del imperio familiar de un Michael rendido ante la brutalidad de su nueva vida.</string>
+    <string name="peli_desc2">Por primera vez en la historia cinematográfica de Spider- Man, nuestro amistoso héroe y vecino es desenmascarado, y ya no puede separar su vida normal de los altos riesgos de ser un súper héroe. Cuando pide ayuda a Doctor Strange, estos riesgos se vuelven más peligrosos, forzándolo a descubrir lo que realmente significa ser Spider-Man.</string>
+    <string name="peli_desc3">Ocurre un fenómeno sin precedentes y los Niños Elegidos descubren que crecer significa el fin de su conexión con sus Digimon. Además de eso, los Elegidos se dan cuenta que cuanto mas luchan con su Digimon, mas rápido se rompe su vínculo. ¿Lucharan por los demás arriesgándose a perder? El momento de elegir y decidir se acerca rápidamente. Tai, Agumon y los demás, se verán obligados a arriesgarlo todo en su última aventura épica.</string>
+    <string name="peli_desc4">El director Matt Reeves (películas de “El Planeta de los Simios”) está al frente con Robert Pattinson (“Tenet”, “El Faro”, “Good Time: Viviendo al Límite”) quien protagoniza a Batman —el detective vigilante de Ciudad Gótica— y a el multimillonario Bruce Wayne.</string>
+    <string name="peli_desc5">Basado en uno de los juegos más aclamados por la critica y que más ha vendido en la historia, Uncharted: Fuera del mapa, narra la historia de Nathan Drake y la primer aventura con su socio-rival Victor “Sully” Sullivan. Estelarizada por Tom Holland como Nathan Drake y Mark Wahlberg como el bromista de intelecto rápido Sully. Uncharted: Fuera del mapa presenta al público la manera en que Nathan Drake se convierte en un cazador de tesoros mientras que resuelve los más grandes misterios en una aventura llena de aventura y acción épica alrededor del mundo.</string>
+
+</resources>
